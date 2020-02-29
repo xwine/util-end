@@ -1,0 +1,21 @@
+.DS_Store
+# Libraries
+# Libraries
+/lib/*.jar
+rebel.xml
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Maven files
+target/
+
+# Intellij IDEA files
+*.iml
+*.ipr
+*.iws
+*.launch
+.idea/
+*.log
